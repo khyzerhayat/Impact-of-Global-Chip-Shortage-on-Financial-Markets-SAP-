@@ -1,0 +1,2 @@
+# Impact-of-Global-Chip-Shortage-on-Financial-Markets-SAP-
+Impact of the Global Chip Shortage on Financial Markets — An analysis of how the 2020–2022 semiconductor shortage reshaped market behavior. I built a SQL pipeline to extract a decade of daily stock prices, then used Python and R to test whether the shortage caused a lasting structural break in how chip stocks move against the broader market.
